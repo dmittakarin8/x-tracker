@@ -243,22 +243,9 @@ Enable logging by setting `LOGGING_ENABLED=true` in your `.env` file. Logs are s
 
 ## 📝 License
 
-[Add your license information here]
+This project is provided as-is for educational and monitoring purposes.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📞 Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Check the troubleshooting section
-- Review the logs for error details
 
 ---
 
